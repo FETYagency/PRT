@@ -1,0 +1,24 @@
+:root{
+    --CLR-black: hsl(0, 0%, 8%);
+    --CLR-green: hsl(153, 71%, 59%);
+    --CLR-grey: hsl(0, 0%, 14%);
+    --CLR-whote: hsl(0, 0%, 85%);
+    --CLR-white: hsl(0, 0%, 100%);
+
+    --FS-HXL: 5.86rem;
+    --LH-HL: 5.86rem;
+    --SPACING-HXL: -2px;
+
+    --FS-HL: 3.2rem;
+    --LH-HL: 3.73rem;
+    --SPACING-HL: -1.5px;
+
+
+    --FS-H: 1.6rem;
+    --lh-H: 2.13rem;
+
+    --FS-body: 1.1rem;
+    --LH-body: 1.74rem;
+
+    font-size: 15px;
+}
